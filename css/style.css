@@ -1,0 +1,69 @@
+*{
+    font-family: montserrat, sans-serif;
+  }
+  
+  #title{
+    background: grey;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .img{
+    
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+      
+  }
+  
+  
+  
+  #img-caption{
+    text-align: center;
+  }
+  
+  
+  
+  
+  #image{
+    padding-top: 1rem;
+    max-width: 35%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+    
+  }
+  
+  #tribute-info{
+    background: grey;
+    padding: 1rem;
+      
+  }
+  
+  #tribute-info h4{
+    text-align: center;
+    
+  }
+  
+  #tribute-info ul{
+      max-width: 200px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+      line-height: 1.6;
+  }
+  
+  #tribute-info li{
+    margin: 16px 0;
+  }
+  
+ 
+  .footer{
+    text-align: center;
+  }
+  
+  
+  
+  
+  
